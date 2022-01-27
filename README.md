@@ -16,7 +16,7 @@ This tool is very useful in PUM and development environments where the technolog
 
 ### Web Posting: https://peopletoolstechtips.com/peoplesoft-file-manager
 
-### YouTube demo: TBD
+### YouTube demo: https://www.youtube.com/watch?v=y9Z7QHzZtwg
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
